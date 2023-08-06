@@ -1,3 +1,10 @@
+
+# using reactjs with fetch library 
+![Screenshot_20230804_170534](https://github.com/itspankaj143/Financial_instruments_reactjs.io-/assets/124787647/4a13d68b-9bae-412d-afff-466f8126ca47)
+![Screenshot_20230804_170603](https://github.com/itspankaj143/Financial_instruments_reactjs.io-/assets/124787647/4e0c4237-c585-478c-bf9f-2be164d4cf42)
+![Screenshot_20230804_170619](https://github.com/itspankaj143/Financial_instruments_reactjs.io-/assets/124787647/22a1562c-5882-48ae-a8df-927b424eb70c)
+![Screenshot_20230804_170632](https://github.com/itspankaj143/Financial_instruments_reactjs.io-/assets/124787647/d01e1857-e94a-4634-acdd-39a2e6f7cd42)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
