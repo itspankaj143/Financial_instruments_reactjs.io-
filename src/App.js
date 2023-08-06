@@ -19,12 +19,13 @@ function App() {
   useEffect(() => {
     fetchInstruments();
   }, []);
+  // console.log(value);
 
   useEffect(() => {
     if (sortKey === null) {
       setSortedData([...value]);
       // console.log(sortedData);
-      // console.log(...value);
+      console.log(...value);
     } else {
       const sorted = [...value];
       // console.log(sorted);
